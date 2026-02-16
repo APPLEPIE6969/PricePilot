@@ -6,8 +6,8 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "SmartBuy - AI Price Tracker",
-  description: "Never overpay again with AI-powered price tracking.",
+  title: "PricePilot - AI Price Tracker",
+  description: "Never overpay again with PricePilot AI-powered price tracking.",
 };
 
 export default function RootLayout({

@@ -99,7 +99,7 @@ export default function Home() {
               Never <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 animate-gradient">Overpay</span> Again.
             </h1>
             <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
-              SmartBuy uses AI to track prices, detect fake discounts, and tell you exactly when to buy.
+              PricePilot uses AI to track prices, detect fake discounts, and tell you exactly when to buy.
             </p>
 
             <GlassCard className="max-w-xl mx-auto p-2 flex flex-col md:flex-row gap-2 items-center bg-white/5 backdrop-blur-xl border-white/10 shadow-2xl shadow-blue-500/10">

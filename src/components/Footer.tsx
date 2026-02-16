@@ -13,9 +13,9 @@ export function Footer() {
           className="flex flex-col items-center gap-4"
         >
           <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-blue-500 to-emerald-500 flex items-center justify-center opacity-50 grayscale hover:grayscale-0 transition-all duration-500">
-            <span className="text-white font-bold text-xs">SB</span>
+            <span className="text-white font-bold text-xs">PP</span>
           </div>
-          <p>© {new Date().getFullYear()} SmartBuy. AI-Powered Price Intelligence.</p>
+          <p>© {new Date().getFullYear()} PricePilot. AI-Powered Price Intelligence.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-blue-400 transition-colors">Terms</a>
             <a href="#" className="hover:text-blue-400 transition-colors">Privacy</a>
